@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene;Second+line+of+text)](https://git.io/typing-svg)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tugscode)](https://git.io/streak-stats)
