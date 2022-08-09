@@ -1,27 +1,12 @@
 
 ### Hi there 👋
-<a href="https://www.facebook.com/tugserdenetugsuu/">
-  <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
-</a>
-<a href="https://www.instagram.com/tugserdenetugsuu/">
-  <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/FN5ka4U3">
-  <img align="left" alt="Tugsuu's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/tugserdenetugs">
-  <img align="left" alt="Tugs-Erdene | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/tugs-erdene-otgonbat-95b470107/">
-  <img align="left" alt="Tugsuu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=I'm+Tugs-Erdene;Fullstack+developer+since+2021.)](https://git.io/typing-svg)
+
+### Socials
+<p align="left"> <a href="https://discord.com/users/FN5ka4U3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/tugserdenetugsuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/tugscode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tugserdenetugsuu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tugs-erdene-otgonbat-95b470107" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/tugscode" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/tugserdenetugs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCoxV6svP8_hzOgxTQqWddZg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tugscode)
 
-<br />
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&width=435&lines=I'm+Tugs-Erdene;Fullstack+developer+since+2021.)](https://git.io/typing-svg)
 - 🔭 I’m currently working on VueJS, ReactJS and tailwind css
 - 🌱 I’m currently learning Java
 - 💼 any freelance work? do reach, [email](mailto:tugserdene.otgonbat@gmail.com) :)
