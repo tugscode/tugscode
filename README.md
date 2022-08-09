@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.facebook.com/tugserdenetugsuu/">
-  <img align="left" alt="Tugsuu's Instagram" width="22px" src="<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>" />
+  <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
 </a>
 <a href="https://www.instagram.com/tugserdenetugsuu/">
   <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
