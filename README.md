@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on VueJS, ReactJS and tailwind css
+- 🌱 I’m currently learning Java
 
 <!--
 **tugscode/tugscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene)](https://git.io/typing-svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode)](https://github.com/tugscode/github-readme-stats)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene)](https://git.io/typing-svg)
+
 
