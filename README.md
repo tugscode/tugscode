@@ -1,4 +1,7 @@
 ### Hi there 👋
+<a href="https://www.facebook.com/tugserdenetugsuu/">
+  <img align="left" alt="Tugsuu's Instagram" width="22px" src="<img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>" />
+</a>
 <a href="https://www.instagram.com/tugserdenetugsuu/">
   <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -44,7 +47,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode)](https://github.com/tugscode/github-readme-stats)
 
 <br />
-📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tugscode&show_icons=true&theme=gotham" alt="tugscode" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=tugscode&show_icons=true&theme=gotham" alt="tugscode" />
 
