@@ -1,4 +1,4 @@
-<div align="center">
+
 ### Hi there 👋
 <a href="https://www.facebook.com/tugserdenetugsuu/">
   <img align="left" alt="Tugsuu's Instagram" width="22px" src="https://img.icons8.com/color/48/000000/facebook-new.png" />
@@ -50,4 +50,4 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br />
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=tugscode&show_icons=true&theme=gotham" alt="tugscode" />
-</div>
+
