@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene)](https://git.io/typing-svg)
 - 🔭 I’m currently working on VueJS, ReactJS and tailwind css
 - 🌱 I’m currently learning Java
 
@@ -17,6 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode)](https://github.com/tugscode/github-readme-stats)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene)](https://git.io/typing-svg)
+
 
 
