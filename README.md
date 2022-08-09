@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Tugs-Erdene)](https://git.io/typing-svg)
-[![TugsCode's GitHub stats](https://github-readme-stats.vercel.app/api?username=tugscode)](https://github.com/tugscode/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode)](https://github.com/tugscode/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tugscode)](https://git.io/streak-stats)
+
