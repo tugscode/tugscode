@@ -32,5 +32,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode)](https://github.com/tugscode/github-readme-stats)
 <br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=tugscode&show_icons=true&theme=gotham" alt="tugscode" />
