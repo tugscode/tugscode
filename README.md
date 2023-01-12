@@ -4,7 +4,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=tugscode)
 
-- 🔭 I’m currently working on VueJS, ReactJS and tailwind css
+- 🔭 I’m currently working on VueJS, NextJS and tailwind css
 - 🌱 I’m currently learning Java
 - 💼 any freelance work? do reach, [email](mailto:tugserdene.otgonbat@gmail.com) :)
 
