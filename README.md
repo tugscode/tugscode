@@ -12,7 +12,7 @@
 ![tugscode's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tugscode&theme=radical&layout=compact) 
 
 <!--   grid-snake -->
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/tugscode/blob/output/github-contribution-grid-snake.svg)
 
 ---
   *If you liked my profile, you can Star ⭐ the repo and if you want to use this template you can Fork it and can use.* 
